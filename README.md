@@ -1,4 +1,4 @@
-# Split Utility
+# Split utility
 This 3dsMax utility script was created around 2014 to help\improve legacy workchain difficulties.  
 Workchain implied exporting 3ds Max models to separate files=parts for consequent in-program usage.
 
